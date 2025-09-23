@@ -1,0 +1,18 @@
+{
+  "q1": "352",
+  "q2": [
+    "sort",
+    "s",
+    "next_permutation"
+  ],
+  "q3": [
+    "itertools",
+    "itertools.permutations",
+    "join"
+  ],
+  "q4": [
+    "backtracking",
+    "recursively",
+    "pruning"
+  ]
+}
